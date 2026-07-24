@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="8" y="8" width="48" height="48" rx="8" fill="none" stroke="hsl(205, 80%, 60%)" stroke-width="4"/><rect x="20" y="20" width="24" height="24" rx="4" fill="hsl(205, 80%, 60%)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>대구 골목 여행</title>
+  <rect width="64" height="64" rx="17" fill="hsl(323 55% 25%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(29 68% 65%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><path d="M12 26q10-10 20 0t20 0" fill="none" stroke="hsl(323 24% 96%)" stroke-width="8" stroke-linecap="round"/><path d="M12 40q10-10 20 0t20 0" fill="none" stroke="hsl(29 68% 65%)" stroke-width="8" stroke-linecap="round"/></g>
+</svg>
